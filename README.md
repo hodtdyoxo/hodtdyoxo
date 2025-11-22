@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erick <img height="40" src="https://media.tenor.com/YSzBJZA8P0cAAAAj/cat-black.gif"></h1>
 <h3 align="center"></h3>
 
-<img align="right" width=450px alt="Cat" src="https://cdna.artstation.com/p/assets/images/images/054/753/166/original/daniel-felipe-pinilla-camacho-gatite-2.gif?1665299008" />
+<img align="right" width=440px alt="Cat" src="https://cdna.artstation.com/p/assets/images/images/054/753/166/original/daniel-felipe-pinilla-camacho-gatite-2.gif?1665299008" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
 
